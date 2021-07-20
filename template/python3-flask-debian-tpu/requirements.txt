@@ -1,0 +1,4 @@
+numpy
+flask
+waitress
+tox==3.*
